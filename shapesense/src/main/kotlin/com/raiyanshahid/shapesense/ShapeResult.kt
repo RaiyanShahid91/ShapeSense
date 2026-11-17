@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 import androidx.compose.runtime.Immutable
 import androidx.compose.ui.geometry.Offset

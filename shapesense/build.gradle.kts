@@ -4,11 +4,11 @@ plugins {
     `maven-publish`
 }
 
-group = "com.brynflow"
+group = "com.raiyanshahid"
 version = "0.1.0"
 
 android {
-    namespace = "com.brynflow.shapesense"
+    namespace = "com.raiyanshahid.shapesense"
     compileSdk = 36
 
     defaultConfig {
@@ -44,7 +44,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.brynflow"
+            groupId = "com.raiyanshahid"
             artifactId = "shapesense"
             version = project.version.toString()
             afterEvaluate { from(components["release"]) }

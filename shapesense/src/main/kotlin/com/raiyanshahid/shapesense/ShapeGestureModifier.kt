@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.runtime.Composable

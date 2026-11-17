@@ -1,4 +1,4 @@
-package com.brynflow.shapesense.sample
+package com.raiyanshahid.shapesense.sample
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

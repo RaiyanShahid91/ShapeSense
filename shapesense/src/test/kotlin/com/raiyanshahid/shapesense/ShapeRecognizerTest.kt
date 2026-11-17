@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull

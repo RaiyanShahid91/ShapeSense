@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 /** Defaults shared by the recognizer and the Compose modifier. */
 public object ShapeGestureDefaults {

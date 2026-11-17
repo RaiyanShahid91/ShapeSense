@@ -130,7 +130,7 @@ val match = ShapeRecognizer().recognize(points, minScore = 0.55f)  // ShapeMatch
    ```
 
    then in the other project add `mavenLocal()` to `repositories` and
-   `implementation("com.brynflow:shapesense:0.1.0")`.
+   `implementation("com.raiyanshahid:shapesense:0.1.0")`.
 
 ## How well does it work?
 

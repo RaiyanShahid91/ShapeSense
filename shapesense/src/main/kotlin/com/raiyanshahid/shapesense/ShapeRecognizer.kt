@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 /**
  * Recognizes hand-drawn shapes. Pure Kotlin, no Android dependency, so it is easy to unit test.

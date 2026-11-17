@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 /**
  * A reference shape that drawn gestures are compared against.

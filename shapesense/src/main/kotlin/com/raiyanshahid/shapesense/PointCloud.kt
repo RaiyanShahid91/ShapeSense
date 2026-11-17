@@ -1,4 +1,4 @@
-package com.brynflow.shapesense
+package com.raiyanshahid.shapesense
 
 import kotlin.math.floor
 import kotlin.math.hypot

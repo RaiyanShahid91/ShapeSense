@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.brynflow.shapesense.sample"
+    namespace = "com.raiyanshahid.shapesense.sample"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.brynflow.shapesense.sample"
+        applicationId = "com.raiyanshahid.shapesense.sample"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

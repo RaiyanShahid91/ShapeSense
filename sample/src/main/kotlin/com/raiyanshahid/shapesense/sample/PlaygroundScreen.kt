@@ -1,4 +1,4 @@
-package com.brynflow.shapesense.sample
+package com.raiyanshahid.shapesense.sample
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -21,10 +21,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
-import com.brynflow.shapesense.ShapeRecognizer
-import com.brynflow.shapesense.ShapeTemplate
-import com.brynflow.shapesense.Shapes
-import com.brynflow.shapesense.onShapeDrawn
+import com.raiyanshahid.shapesense.ShapeRecognizer
+import com.raiyanshahid.shapesense.ShapeTemplate
+import com.raiyanshahid.shapesense.Shapes
+import com.raiyanshahid.shapesense.onShapeDrawn
 
 /** Draw anything; see what ShapeSense thinks it is. Teach it your own shapes. */
 @Composable

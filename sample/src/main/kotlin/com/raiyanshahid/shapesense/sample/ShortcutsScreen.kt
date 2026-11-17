@@ -1,4 +1,4 @@
-package com.brynflow.shapesense.sample
+package com.raiyanshahid.shapesense.sample
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -16,9 +16,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.unit.dp
-import com.brynflow.shapesense.ShapeGestureConfig
-import com.brynflow.shapesense.Shapes
-import com.brynflow.shapesense.onShapeDrawn
+import com.raiyanshahid.shapesense.ShapeGestureConfig
+import com.raiyanshahid.shapesense.Shapes
+import com.raiyanshahid.shapesense.onShapeDrawn
 
 private data class Task(val id: Int, val title: String, val done: Boolean = false, val starred: Boolean = false)
 
