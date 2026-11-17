@@ -1,7 +1,35 @@
 # ShapeSense
 
+[![Build](https://github.com/RaiyanShahid91/ShapeSense/actions/workflows/build.yml/badge.svg)](https://github.com/RaiyanShahid91/ShapeSense/actions/workflows/build.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 **Draw-a-shape gestures for Jetpack Compose.** Let users draw a ✓, ✗, circle, star or arrow on any
 composable, and react to it with one modifier.
+
+## See it on a device
+
+<p align="center">
+  <img src="docs/device-demo.gif" width="300" alt="Screen recording of the ShapeSense sample app on an Android emulator">
+  <br>
+  <sub>Recorded from the sample app running on the Android emulator.</sub>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshot-playground.png" width="260" alt="Playground screen of the sample app, showing what each drawing was recognized as with runner-ups">
+      <br>
+      <sub>Playground: shows what each drawing was recognized as, with runner-ups, and lets you teach new shapes</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshot-shortcuts.png" width="260" alt="Shortcuts screen of the sample app, a to-do list operated by drawing shapes">
+      <br>
+      <sub>Shortcuts: draw a check to complete, an X to delete, or a circle to star a row</sub>
+    </td>
+  </tr>
+</table>
+
+Run the sample module in Android Studio to try it yourself.
 
 ```kotlin
 Box(
